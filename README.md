@@ -129,3 +129,5 @@ footer {
     background: #eee;
     padding: 10px;
 }
+
+<img src="images/main.jpg">
